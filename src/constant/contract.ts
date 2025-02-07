@@ -1,7 +1,7 @@
 export const CONTRACT = {
   name: 'StarlightAI555',
   symbol: 'STAI',
-  ca: 'HQT9eGZ3vVREhzbkhnAMQ5NdQY4mDsCYP9FzY2SEV7x3',
+  ca: '5yekguGAX5kbqAywM18n1oeNrszQXEk4xsTeheo7pump',
   totalSupply: 1000000000,
   taxPercentage: 5,
   ownershipRenounced: true,
