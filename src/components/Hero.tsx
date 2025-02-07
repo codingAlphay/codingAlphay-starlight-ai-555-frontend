@@ -28,7 +28,7 @@ export default function Hero() {
           </div>
         </h1>
         <Link
-          href={`https://dexscreener.com/solana/HQT9eGZ3vVREhzbkhnAMQ5NdQY4mDsCYP9FzY2SEV7x3`}
+          href={`https://dexscreener.com/solana/5yekguGAX5kbqAywM18n1oeNrszQXEk4xsTeheo7pump`}
           target='_blank'
           className='w-full md:w-1/2 lg:w-1/2'
         >
